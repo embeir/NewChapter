@@ -17,7 +17,7 @@ void addition()
 
     add *brojevi = &Broj;
 
-    cout << Broj.a << endl;
+    cout << "trying new branch"<< endl;
 }
 
 int main()
